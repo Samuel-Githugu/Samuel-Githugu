@@ -2,19 +2,17 @@
 
 Computer Science Student @ TU Berlin
 
-## Current Focus
+## Current Interests
 
 - AI Automation
-- Cloud Engineering
-- DevSecOps & Security Automation
-- Backend Systems
+- Software Engineering
+- Distributed Systems
 
 ## Currently Building
 
 - WMA (Private Wealth Management Platform)
-- Agentic CyberAudit OS
 - AI Workflow Automation Solutions
-- Outlook-to-Agent Automation Systems
+  - Outlook-to-Agent Automation Systems
 
 ## Technologies
 
@@ -22,7 +20,7 @@ Python • Java • Spring Boot • Docker • Linux • SQL • Git • REST AP
 
 ## Interests
 
-I'm particularly interested in building practical systems that combine automation, AI, backend engineering and cloud infrastructure to solve real operational problems.
+I'm particularly interested in building practical systems that combine automation, AI and backend engineering to solve real operational problems.
 
 <!--
 **Samuel-Githugu/Samuel-Githugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
