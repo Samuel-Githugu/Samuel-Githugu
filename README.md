@@ -4,23 +4,34 @@ Computer Science Student @ TU Berlin
 
 ## Current Interests
 
-- AI Automation
 - Software Engineering
 - Distributed Systems
+- Reliability & Performance Engineering
+- AI Automation
 
 ## Currently Building
 
-- WMA (Private Wealth Management Platform)
-- AI Workflow Automation Solutions
-  - Outlook-to-Agent Automation Systems
+### TraceBench
+Distributed Systems & Performance Engineering  
+Python • GCP • Linux • Apache Doris
+
+Statistical evaluation of synthesized benchmarks for production-like
+cloud data warehouses.
+
+### WMA
+Full-Stack Wealth Management Application  
+Java • Spring Boot • React • TypeScript • MySQL • Docker
+
+Building a full-stack system for portfolio management, transactions,
+ownership accounting and financial data.
 
 ## Technologies
 
-Python • Java • Spring Boot • Docker • Linux • SQL • Git • REST APIs
+Python • Java • TypeScript • Spring Boot • Docker • Kubernetes • Linux • SQL • Git • REST APIs
 
 ## Interests
 
-I'm particularly interested in building practical systems that combine automation, AI and backend engineering to solve real operational problems.
+I'm particularly interested in building reliable software systems particularly across backend engineering, distributed systems, performance and automation, that utilise AI to solve real operational problems.
 
 <!--
 **Samuel-Githugu/Samuel-Githugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
